@@ -1,17 +1,21 @@
 {
   "name": "ember-simple-auth-u2f",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Implements U2F standard for ember-simple-auth.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "u2f",
+    "authentication",
+    "ember-simple-auth",
+    "fido"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Miles Zimmerman",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/mileszim/ember-simple-auth-u2f",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
